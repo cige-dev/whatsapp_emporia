@@ -4,3 +4,4 @@ gunicorn
 pywhatkit
 datetime
 python-dateutil
+pandas
